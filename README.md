@@ -21,6 +21,12 @@ Advanced Bus Reservation System built with **Java** and **JDBC** (MySQL).
 2. Update DB credentials in `src/config/DBConfig.java`.
 3. Build and run:
 ```bash
+
+🎥 Demo Video
+
+Watch the full project demonstration:
+👉 https://youtu.be/CB7qEPk2vP4
+
 # if using Maven
 mvn clean compile exec:java -Dexec.mainClass="com.yourpackage.MainApp"
 
